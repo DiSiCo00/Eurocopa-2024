@@ -10,3 +10,4 @@ Rellena la plantilla de Semis. <br />
 Ejecuta las celdas del notebook hasta que cree el csv "Fase Eliminatoria Final.csv". <br />
 Rellena la plantilla de la Final. <br />
 Ejecuta las celdas finales del notebook. <br />
+Rellena los premios individuales.
