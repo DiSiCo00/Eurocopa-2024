@@ -1,0 +1,37 @@
+Jornada;Grupo;Local;GL;GV;Visitante;DS;Fecha;Hora
+J1;GRUPO A;Alemania;;;Escocia;V;14/06/2024;21:00
+J1;GRUPO A;Hungría;;;Suiza;S;15/06/2024;15:00
+J1;GRUPO B;España;;;Croacia;S;15/06/2024;18:00
+J1;GRUPO B;Italia;;;Albania;S;15/06/2024;21:00
+J1;GRUPO D;Polonia;;;Países Bajos;D;16/06/2024;15:00
+J1;GRUPO C;Eslovenia;;;Dinamarca;D;16/06/2024;18:00
+J1;GRUPO C;Serbia;;;Inglaterra;D;16/06/2024;21:00
+J1;GRUPO E;Rumanía;;;Ucrania;L;17/06/2024;15:00
+J1;GRUPO E;Bélgica;;;Eslovaquia;L;17/06/2024;18:00
+J1;GRUPO D;Austria;;;Francia;L;17/06/2024;21:00
+J1;GRUPO F;Turquía;;;Georgia;M;18/06/2024;18:00
+J1;GRUPO F;Portugal;;;Chequia;M;18/06/2024;21:00
+J2;GRUPO B;Croacia;;;Albania;X;19/06/2024;15:00
+J2;GRUPO A;Alemania;;;Hungría;X;19/06/2024;18:00
+J2;GRUPO A;Escocia;;;Suiza;X;19/06/2024;21:00
+J2;GRUPO C;Eslovenia;;;Serbia;J;20/06/2024;15:00
+J2;GRUPO C;Dinamarca;;;Inglaterra;J;20/06/2024;18:00
+J2;GRUPO B;España;;;Italia;J;20/06/2024;21:00
+J2;GRUPO E;Eslovaquia;;;Ucrania;V;21/06/2024;15:00
+J2;GRUPO D;Polonia;;;Austria;V;21/06/2024;18:00
+J2;GRUPO D;Países Bajos;;;Francia;V;21/06/2024;21:00
+J2;GRUPO F;Georgia;;;Chequia;S;22/06/2024;15:00
+J2;GRUPO F;Turquía;;;Portugal;S;22/06/2024;18:00
+J2;GRUPO E;Bélgica;;;Rumanía;S;22/06/2024;21:00
+J3;GRUPO A;Suiza;;;Alemania;D;23/06/2024;21:00
+J3;GRUPO A;Escocia;;;Hungría;D;23/06/2024;21:00
+J3;GRUPO B;Albania;;;España;L;24/06/2024;21:00
+J3;GRUPO B;Croacia;;;Italia;L;24/06/2024;21:00
+J3;GRUPO D;Francia;;;Polonia;M;25/06/2024;18:00
+J3;GRUPO D;Países Bajos;;;Austria;M;25/06/2024;18:00
+J3;GRUPO C;Dinamarca;;;Serbia;M;25/06/2024;21:00
+J3;GRUPO C;Inglaterra;;;Eslovenia;M;25/06/2024;21:00
+J3;GRUPO E;Eslovaquia;;;Rumanía;X;26/06/2024;18:00
+J3;GRUPO E;Ucrania;;;Bélgica;X;26/06/2024;18:00
+J3;GRUPO F;Georgia;;;Portugal;X;26/06/2024;21:00
+J3;GRUPO F;Chequia;;;Turquía;X;26/06/2024;21:00
