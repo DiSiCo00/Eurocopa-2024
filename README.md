@@ -1,6 +1,6 @@
 # Eurocopa-2024
 
-Rellena la plantilla de Fase de Grupos.
+Rellena la plantilla de Fase de Grupos. \n
 Ejecuta las celdas del notebook hasta que cree el csv "Fase Eliminatoria Octavos.csv"
 Rellena la plantilla de Octavos
 Ejecuta las celdas del notebook hasta que cree el csv "Fase Eliminatoria Cuartos.csv"
