@@ -1,0 +1,647 @@
+Grupo;Selección;Dorsal;Posición;Nombre;Equipo;Liga;Nacimiento
+A;Alemania;12;PT;Oliver Baumann;TSG 1899 Hoffenheim;Bundesliga;02/06/1990
+A;Alemania;1;PT;Manuel Neuer;Bayern Múnich;Bundesliga;27/03/1986
+A;Alemania;22;PT;Marc-André Ter Stegen;Barcelona;La Liga;30/04/1992
+A;Alemania;16;DF;Waldemar Anton;Stuttgart;Bundesliga;20/07/1996
+A;Alemania;20;DF;Benjamin Henrichs;RB Leipzig;Bundesliga;23/02/1997
+A;Alemania;6;DF;Joshua Kimmich;Bayern Múnich;Bundesliga;08/02/1995
+A;Alemania;24;DF;Robin Koch;Eintracht Frankfurt;Bundesliga;17/07/1996
+A;Alemania;18;DF;Maximilian Mittelstädt;Stuttgart;Bundesliga;18/03/1997
+A;Alemania;3;DF;David Raum;RB Leipzig;Bundesliga;22/04/1998
+A;Alemania;2;DF;Antonio Rüdiger;Real Madrid;La Liga;03/03/1993
+A;Alemania;15;DF;Nico Schlotterbeck;Borussia Dortmund;Bundesliga;01/12/1999
+A;Alemania;4;DF;Jonathan Tah;Bayer Leverkusen;Bundesliga;11/02/1996
+A;Alemania;23;MC;Robert Andrich;Bayer Leverkusen;Bundesliga;22/09/1994
+A;Alemania;11;MC;Chris Führich;Stuttgart;Bundesliga;09/01/1998
+A;Alemania;5;MC;Pascal Groß;Brighton & Hove Albion;Premier League;15/06/1991
+A;Alemania;21;MC;Ilkay Gündogan;Barcelona;La Liga;24/10/1990
+A;Alemania;8;MC;Toni Kroos;Real Madrid;La Liga;04/01/1990
+A;Alemania;10;MC;Jamal Musiala;Bayern Múnich;Bundesliga;26/02/2003
+A;Alemania;25;MC;Aleksandar Pavlovic;Bayern Múnich;Bundesliga;15/07/2003
+A;Alemania;19;MC;Leroy Sané;Bayern Múnich;Bundesliga;11/01/1996
+A;Alemania;17;MC;Florian Wirtz;Bayer Leverkusen;Bundesliga;03/05/2003
+A;Alemania;14;DL;Maximilian Beier;TSG 1899 Hoffenheim;Bundesliga;17/10/2002
+A;Alemania;9;DL;Niclas Füllkrug;Borussia Dortmund;Bundesliga;09/02/1993
+A;Alemania;7;DL;Kai Havertz;Arsenal;Premier League;11/06/1999
+A;Alemania;13;DL;Thomas Müller;Bayern Múnich;Bundesliga;13/09/1989
+A;Alemania;26;DL;Deniz Undav;Stuttgart;Bundesliga;19/07/1996
+A;Alemania;-;DT;Julian Nagelsmann;Alemania;-;23/07/1987
+A;Escocia;21;PT;Zander Clark;Heart of Midlothian;Scottish Premiership;26/06/1992
+A;Escocia;1;PT;Angus Gunn;Norwich City;Championship;22/01/1996
+A;Escocia;12;PT;Liam Kelly;Motherwell;Scottish Premiership;23/01/1996
+A;Escocia;16;DF;Liam Cooper;Leeds United;Championship;30/08/1991
+A;Escocia;5;DF;Grant Hanley;Norwich City;Championship;20/11/1991
+A;Escocia;13;DF;Jack Hendry;Al-Ettifaq;Saudi Pro League;07/05/1995
+A;Escocia;26;DF;Scott McKenna;FC København;Superligaen;12/11/1996
+A;Escocia;22;DF;Ross McCrorie;Bristol City;Championship;18/03/1998
+A;Escocia;15;DF;Ryan Porteous;Watford;Championship;25/03/1999
+A;Escocia;2;DF;Anthony Ralston;Celtic;Scottish Premiership;16/11/1998
+A;Escocia;3;DF;Andrew Robertson;Liverpool;Premier League;11/03/1994
+A;Escocia;24;DF;Greg Taylor;Celtic;Scottish Premiership;05/11/1997
+A;Escocia;6;DF;Kieran Tierney;Real Sociedad;La Liga;05/06/1997
+A;Escocia;17;MC;Stuart Armstrong;Southampton;Championship;30/03/1992
+A;Escocia;25;MC;James Forrest;Celtic;Scottish Premiership;07/07/1991
+A;Escocia;14;MC;Billy Gilmour;Brighton & Hove Albion;Premier League;11/06/2001
+A;Escocia;20;MC;Ryan Jack;Rangers;Scottish Premiership;27/02/1992
+A;Escocia;7;MC;John McGinn;Aston Villa;Premier League;18/10/1994
+A;Escocia;8;MC;Callum McGregor;Celtic;Scottish Premiership;14/06/1993
+A;Escocia;23;MC;Kenny McLean;Norwich City;Championship;08/01/1992
+A;Escocia;4;MC;Scott McTominay;Manchester United;Premier League;08/12/1996
+A;Escocia;18;MC;Lewis Morgan;New York Red Bulls;MLS;30/09/1996
+A;Escocia;10;DL;Ché Adams;Southampton;Championship;13/07/1996
+A;Escocia;11;DL;Ryan Christie;AFC Bournemouth;Premier League;22/02/1995
+A;Escocia;19;DL;Tommy Conway;Bristol City;Championship;06/08/2002
+A;Escocia;9;DL;Lawrence Shankland;Heart of Midlothian;Scottish Premiership;10/08/1995
+A;Escocia;-;DT;Steve Clarke;Escocia;-;29/08/1963
+A;Suiza;21;PT;Gregor Kobel;Borussia Dortmund;Bundesliga;06/12/1997
+A;Suiza;12;PT;Yvon Mvogo;Lorient;Ligue 1;06/06/1994
+A;Suiza;1;PT;Yann Sommer;Inter de Milán;Serie A;17/12/1988
+A;Suiza;5;DF;Manuel Akanji;Manchester City;Premier League;19/07/1995
+A;Suiza;4;DF;Nico Elvedi;Borussia Mönchengladbach;Bundesliga;30/09/1996
+A;Suiza;13;DF;Ricardo Rodríguez;FC Torino;Serie A;25/08/1992
+A;Suiza;22;DF;Fabian Schär;Newcastle United;Premier League;20/12/1991
+A;Suiza;2;DF;Leonidas Stergiou;Stuttgart;Bundesliga;03/03/2002
+A;Suiza;3;DF;Silvan Widmer;Mainz 05;Bundesliga;05/03/1993
+A;Suiza;15;DF;Cedric Zesiger;Wolfsburg;Bundesliga;24/06/1998
+A;Suiza;20;MC;Michel Aebischer;Bologna FC;Serie A;06/01/1997
+A;Suiza;8;MC;Remo Freuler;Bologna FC;Serie A;15/04/1992
+A;Suiza;24;MC;Ardon Jashari;FC Luzern;Swiss Super League;30/07/2002
+A;Suiza;26;MC;Fabien Rieder;Stade Rennais;Ligue 1;16/02/2002
+A;Suiza;23;MC;Xherdan Shaqiri;Chicago Fire;MLS;10/10/1991
+A;Suiza;16;MC;Vincent Sierro;Toulouse;Ligue 1;08/10/1995
+A;Suiza;11;MC;Renato Steffen;FC Lugano;Swiss Super League;03/11/1991
+A;Suiza;17;MC;Ruben Vargas;FC Augsburg;Bundesliga;05/08/1998
+A;Suiza;10;MC;Granit Xhaka;Bayer Leverkusen;Bundesliga;27/09/1992
+A;Suiza;6;MC;Denis Zakaria;AS Monaco;Ligue 1;20/11/1996
+A;Suiza;14;MC;Steven Zuber;AEK Athens;Super League Greece;17/08/1991
+A;Suiza;25;DL;Zeki Amdouni;Burnley;Premier League;04/12/2000
+A;Suiza;18;DL;Kwadwo Duah;Ludogorets Razgrad;efbet Liga;24/02/1997
+A;Suiza;7;DL;Breel Embolo;AS Monaco;Ligue 1;14/02/1997
+A;Suiza;19;DL;Dan Ndoye;Bologna FC;Serie A;25/10/2000
+A;Suiza;9;DL;Noah Okafor;AC Milan;Serie A;24/05/2000
+A;Suiza;-;DT;Murat Yakin;Suiza;-;15/09/1974
+A;Hungría;12;PT;Dénes Dibusz;Ferencváros;Nemzeti Bajnokság I;16/11/1990
+A;Hungría;1;PT;Péter Gulácsi;RB Leipzig;Bundesliga;06/05/1990
+A;Hungría;22;PT;Péter Szappanos;Paksi SE;Nemzeti Bajnokság I;14/11/1990
+A;Hungría;3;DF;Botond Balogh;Parma Calcio;Serie B;06/06/2002
+A;Hungría;14;DF;Bendegúz Bolla;Servette FC;Swiss Super League;22/11/1999
+A;Hungría;21;DF;Endre Botka;Ferencváros;Nemzeti Bajnokság I;25/08/1994
+A;Hungría;24;DF;Marton Dárdai;Hertha BSC;2. Bundesliga;12/02/2002
+A;Hungría;5;DF;Attila Fiola;MOL Fehérvár FC;Nemzeti Bajnokság I;17/02/1990
+A;Hungría;11;DF;Milos Kerkez;AFC Bournemouth;Premier League;07/11/2003
+A;Hungría;2;DF;Ádám Lang;Omonia;Nemzeti Bajnokság I;17/01/1993
+A;Hungría;18;DF;Zsolt Nagy;Puskás Akadémia;Nemzeti Bajnokság I;25/05/1993
+A;Hungría;7;DF;Loïc Négo;Le Havre AC;Ligue 1;15/01/1991
+A;Hungría;6;DF;Willi Orbán;RB Leipzig;Bundesliga;03/11/1992
+A;Hungría;4;DF;Attila Szalai;SC Freiburg;Bundesliga;20/01/1998
+A;Hungría;16;MC;Daniel Gazdag;Philadelphia Union;MLS;02/03/1996
+A;Hungría;26;MC;Mihály Kata;MTK Budapest;Nemzeti Bajnokság I;13/04/2002
+A;Hungría;15;MC;László Kleinheisler;Hajduk Split;Prva HNL;08/04/1994
+A;Hungría;8;MC;Ádám Nagy;Spezia Calcio;Serie B;17/06/1995
+A;Hungría;13;MC;András Schäfer;Union Berlin;Bundesliga;13/04/1999
+A;Hungría;17;MC;Callum Styles;AFC Sunderland;Championship;28/03/2000
+A;Hungría;10;MC;Dominik Szoboszlai;Liverpool;Premier League;25/10/2000
+A;Hungría;9;DL;Martin Ádám;Ulsan HD;K League 1;06/11/1994
+A;Hungría;23;DL;Kevin Csoboth;Ujpest FC;Nemzeti Bajnokság I;20/06/2000
+A;Hungría;25;DL;Kriztofer Horváth;Kecskeméti TE;Nemzeti Bajnokság I;08/01/2002
+A;Hungría;20;DL;Roland Sallai;SC Freiburg;Bundesliga;22/05/1997
+A;Hungría;19;DL;Barnabás Varga;Ferencváros;Nemzeti Bajnokság I;25/10/1994
+A;Hungría;-;DT;Marco Rossi;Italia;-;09/09/1964
+B;Italia;1;PT;Gianluigi Donnarumma;PSG;Ligue 1;25/02/1999
+B;Italia;26;PT;Alex Meret;Napoli;Serie A;22/03/1997
+B;Italia;12;PT;Guglielmo Vicario;Tottenham;Premier League;07/10/1996
+B;Italia;23;DF;Alessandro Bastoni;Inter Milan;Serie A;13/04/1999
+B;Italia;15;DF;Raoul Bellanova;Torino;Serie A;17/05/2000
+B;Italia;4;DF;Alessandro Buongiorno;Torino;Serie A;06/06/1999
+B;Italia;5;DF;Riccardo Calafiori;Bologna;Serie A;19/05/2002
+B;Italia;24;DF;Andrea Cambiaso;Juventus;Serie A;20/02/2000
+B;Italia;13;DF;Matteo Darmian;Inter Milan;Serie A;02/12/1989
+B;Italia;2;DF;Giovanni Di Lorenzo;Napoli;Serie A;04/08/1993
+B;Italia;3;DF;Federico Dimarco;Inter Milan;Serie A;10/11/1997
+B;Italia;17;DF;Gianluca Mancini;Roma;Serie A;17/04/1996
+B;Italia;6;DF;Federico Gatti;Juventus;Serie A;24/06/1998
+B;Italia;18;MC;Nicolò Barella;Inter Milan;Serie A;07/02/1997
+B;Italia;16;MC;Bryan Cristante;Roma;Serie A;03/03/1995
+B;Italia;21;MC;Nicolò Fagioli;Juventus;Serie A;12/02/2001
+B;Italia;7;MC;Davide Frattesi;Inter Milan;Serie A;22/09/1999
+B;Italia;8;MC;Jorginho;Arsenal;Premier League;20/12/1991
+B;Italia;10;MC;Lorenzo Pellegrini;Roma;Serie A;19/06/1996
+B;Italia;14;DL;Federico Chiesa;Juventus;Serie A;25/10/1997
+B;Italia;22;DL;Stephan El Shaarawy;Roma;Serie A;27/10/1992
+B;Italia;25;DL;Michael Folorunsho;Hellas Verona;Serie A;07/02/1998
+B;Italia;11;DL;Giacomo Raspadori;Napoli;Serie A;18/02/2000
+B;Italia;19;DL;Mateo Retegui;Genoa;Serie A;29/04/1999
+B;Italia;9;DL;Gianluca Scamacca;Atalanta;Serie A;01/01/1999
+B;Italia;20;DL;Mattia Zaccagni;Lazio;Serie A;16/06/1995
+B;Italia;-;DT;Luciano Spalletti;Italia;-;07/03/1959
+B;España;1;PT;David Raya;Arsenal;Premier League;15/09/1995
+B;España;13;PT;Alejandro Remiro;Real Sociedad;La Liga;24/03/1995
+B;España;23;PT;Unai Simón;Athletic Bilbao;La Liga;11/06/1997
+B;España;2;DF;Dani Carvajal;Real Madrid;La Liga;11/01/1992
+B;España;24;DF;Marc Cucurella;Chelsea;Premier League;22/07/1998
+B;España;12;DF;Alejandro Grimaldo;Bayer Leverkusen;Bundesliga;20/09/1995
+B;España;14;DF;Aymeric Laporte;Al Nassr;Saudi Pro League;27/05/1994
+B;España;3;DF;Robin Le Normand;Real Sociedad;La Liga;11/11/1996
+B;España;4;DF;Nacho;Real Madrid;La Liga;18/01/1990
+B;España;5;DF;Daniel Vivian;Athletic Bilbao;La Liga;05/07/1999
+B;España;15;MC;Álex Baena;Villarreal;La Liga;20/07/2001
+B;España;6;MC;Mikel Merino;Real Sociedad;La Liga;22/06/1996
+B;España;21;MC;Mikel Oyarzabal;Real Sociedad;La Liga;21/04/1997
+B;España;20;MC;Pedri;Barcelona;La Liga;25/11/2002
+B;España;16;MC;Rodri;Manchester City;Premier League;22/06/1996
+B;España;8;MC;Fabián Ruiz;PSG;Ligue 1;03/04/1996
+B;España;17;MC;Nico Williams;Athletic Bilbao;La Liga;12/07/2002
+B;España;18;MC;Martin Zubimendi;Real Sociedad;La Liga;02/02/1999
+B;España;9;DL;Joselu;Real Madrid;La Liga;27/03/1990
+B;España;25;DL;Fermín López;Barcelona;La Liga;11/05/2003
+B;España;7;DL;Álvaro Morata;Atletico Madrid;La Liga;23/10/1992
+B;España;22;DL;Jesús Navas;Sevilla;La Liga;21/11/1985
+B;España;10;DL;Dani Olmo;RB Leipzig;Bundesliga;07/05/1998
+B;España;26;DL;Ayoze Pérez;Real Betis;La Liga;29/07/1993
+B;España;11;DL;Ferrán Torres;Barcelona;La Liga;29/02/2000
+B;España;19;DL;Lamine Yamal;Barcelona;La Liga;13/07/2007
+B;España;-;DT;Luis de la Fuente;España;-;21/06/1961
+B;Croacia;23;PT;Ivica Ivuši?;Pafos;First Division;01/02/1995
+B;Croacia;12;PT;Nediljko Labrovi?;Rijeka;Prva HNL;06/10/1999
+B;Croacia;1;PT;Dominik Livakovi?;Fenerbahçe;Süper Lig;09/01/1995
+B;Croacia;5;DF;Martin Erli?;Sassuolo;Serie A;24/01/1998
+B;Croacia;4;DF;Joško Gvardiol;Manchester City;Premier League;23/01/2002
+B;Croacia;22;DF;Josip Juranovi?;Union Berlin;Bundesliga;16/08/1995
+B;Croacia;3;DF;Marin Pongra?i?;Lecce;Serie A;11/09/1997
+B;Croacia;19;DF;Borna Sosa;Ajax;Eredivisie;21/01/1998
+B;Croacia;2;DF;Josip Staniši?;Bayer Leverkusen;Bundesliga;06/04/2000
+B;Croacia;6;DF;Josip Šutalo;Ajax;Eredivisie;28/04/2000
+B;Croacia;21;DF;Domagoj Vida;AEK Athens;Super League Greece;29/04/1989
+B;Croacia;26;MC;Martin Baturina;Dinamo Zagreb;Prva HNL;16/02/2003
+B;Croacia;11;MC;Marcelo Brozovi?;Al Nassr;Saudi Pro League;16/11/1992
+B;Croacia;8;MC;Mateo Kova?i?;Manchester City;Premier League;06/05/1994
+B;Croacia;7;MC;Lovro Majer;Wolfsburg;Bundesliga;17/01/1998
+B;Croacia;10;MC;Luka Modri?;Real Madrid;La Liga;09/09/1985
+B;Croacia;15;MC;Mario Pašali?;Atalanta;Serie A;09/02/1995
+B;Croacia;25;MC;Luka Su?i?;Red Bull Salzburg;Austrian Bundesliga;09/09/2002
+B;Croacia;13;MC;Nikola Vlaši?;Torino;Serie A;04/10/1997
+B;Croacia;16;DL;Ante Budimir;Osasuna;La Liga;22/07/1991
+B;Croacia;18;DL;Luka Ivanušec;Feyenoord;Eredivisie;26/08/1998
+B;Croacia;9;DL;Andrej Kramari?;TSG 1899 Hoffenheim;Bundesliga;19/06/1991
+B;Croacia;24;DL;Marco Pašali?;Rijeka;Prva HNL;14/09/2000
+B;Croacia;14;DL;Ivan Periši?;Hajduk Split;Prva HNL;02/02/1989
+B;Croacia;17;DL;Bruno Petkovi?;Dinamo Zagreb;Prva HNL;06/09/1994
+B;Croacia;20;DL;Marko Pjaca;Rijeka;Prva HNL;06/05/1995
+B;Croacia;-;DT;Zlatko Dali?;Croacia;-;26/10/1966
+B;Albania;1;PT;Etrit Berisha;Empoli;Serie A;10/03/1989
+B;Albania;12;PT;Elhan Kastrati;Cittadella;Serie B;02/02/1997
+B;Albania;23;PT;Thomas Strakosha;Brentford;Premier League;19/03/1995
+B;Albania;25;DF;Naser Aliji;FC Voluntari;Liga I;27/12/1993
+B;Albania;5;DF;Arlind Ajeti;Cluj;Liga I;25/09/1993
+B;Albania;2;DF;Ivan Balliu;Rayo Vallecano;La Liga;01/01/1992
+B;Albania;6;DF;Berat Djimsiti;Atalanta;Serie A;19/02/1993
+B;Albania;4;DF;Elseid Hysaj;Lazio;Serie A;02/02/1994
+B;Albania;18;DF;Ardian Ismajli;Empoli;Serie A;30/09/1996
+B;Albania;24;DF;Marash Kumbulla;Sassuolo;Serie A;08/02/2000
+B;Albania;13;DF;Enea Mihaj;Famalicão;Primeira Liga;05/07/1998
+B;Albania;3;DF;Mario Mitaj;Lokomotiv Moskva;Prem'yer-Liga;06/08/2003
+B;Albania;22;MC;Amir Abrashi;Grasshopper;Swiss Super League;27/03/1990
+B;Albania;21;MC;Kristjan Asllani;Inter Milan;Serie A;09/03/2002
+B;Albania;10;MC;Nedim Bajrami;Sassuolo;Serie A;28/02/1999
+B;Albania;8;MC;Klaus Gjasula;Darmstadt;Bundesliga;14/12/1989
+B;Albania;14;MC;Qazim Laçi;Sparta Praha;Fortuna Liga;19/01/1996
+B;Albania;20;MC;Ylber Ramadani;Lecce;Serie A;12/04/1996
+B;Albania;15;MC;Taulant Seferi;FC Baniyas;UAE Pro League;15/11/1996
+B;Albania;9;DL;Jasir Asani;Gwangju FC;K League 1;19/05/1995
+B;Albania;16;DL;Medon Berisha;Lecce;Serie A;21/10/2003
+B;Albania;11;DL;Armando Broja;Fulham;Premier League;10/09/2001
+B;Albania;19;DL;Mirlind Daku;Rubin Kazan;Prem'yer-Liga;01/01/1998
+B;Albania;26;DL;Arbër Hoxha;Dinamo Zagreb;Prva HNL;06/10/1998
+B;Albania;7;DL;Rey Manaj;Sivasspor;Süper Lig;24/02/1997
+B;Albania;17;DL;Ernest Muçi;Be?ikta?;Süper Lig;19/03/2001
+B;Albania;-;DT;Sylvinho;España;-;12/04/1974
+C;Inglaterra;23;PT;Dean Henderson;Crystal Palace;Premier League;12/03/1997
+C;Inglaterra;1;PT;Jordan Pickford;Everton;Premier League;07/03/1994
+C;Inglaterra;13;PT;Aaron Ramsdale;Arsenal;Premier League;14/05/1998
+C;Inglaterra;8;DF;Trent Alexander-Arnold;Liverpool;Premier League;07/10/1998
+C;Inglaterra;15;DF;Lewis Dunk;Brighton & Hove Albion;Premier League;21/11/1991
+C;Inglaterra;22;DF;Joe Gomez;Liverpool;Premier League;23/05/1997
+C;Inglaterra;6;DF;Marc Guéhi;Crystal Palace;Premier League;13/07/2000
+C;Inglaterra;14;DF;Ezri Konsa;Aston Villa;Premier League;23/10/1997
+C;Inglaterra;3;DF;Luke Shaw;Manchester United;Premier League;12/07/1995
+C;Inglaterra;5;DF;John Stones;Manchester City;Premier League;28/05/1994
+C;Inglaterra;12;DF;Kieran Trippier;Newcastle United;Premier League;19/09/1990
+C;Inglaterra;2;DF;Kyle Walker;Manchester City;Premier League;28/05/1990
+C;Inglaterra;10;MC;Jude Bellingham;Real Madrid;La Liga;29/06/2003
+C;Inglaterra;11;MC;Phil Foden;Manchester City;Premier League;28/05/2000
+C;Inglaterra;16;MC;Conor Gallagher;Chelsea;Premier League;06/02/2000
+C;Inglaterra;26;MC;Kobbie Mainoo;Manchester United;Premier League;19/04/2005
+C;Inglaterra;24;MC;Cole Palmer;Chelsea;Premier League;06/05/2002
+C;Inglaterra;4;MC;Declan Rice;Arsenal;Premier League;14/01/1999
+C;Inglaterra;25;MC;Adam Wharton;Crystal Palace;Premier League;06/02/2004
+C;Inglaterra;20;DL;Jarrod Bowen;West Ham United;Premier League;20/12/1996
+C;Inglaterra;21;DL;Eberechi Eze;Crystal Palace;Premier League;29/06/1998
+C;Inglaterra;18;DL;Anthony Gordon;Newcastle United;Premier League;24/02/2001
+C;Inglaterra;9;DL;Harry Kane;Bayern Munich;Bundesliga;28/07/1993
+C;Inglaterra;7;DL;Bukayo Saka;Arsenal;Premier League;05/09/2001
+C;Inglaterra;17;DL;Ivan Toney;Brentford;Premier League;16/03/1996
+C;Inglaterra;19;DL;Ollie Watkins;Aston Villa;Premier League;30/12/1995
+C;Inglaterra;-;DT;Gareth Southgate;Inglaterra;-;03/09/1970
+C;Serbia;23;PT;Vanja Milinkovi?-Savi?;Torino;Serie A;20/02/1997
+C;Serbia;12;PT;?or?e Petrovi?;Chelsea;Premier League;08/10/1999
+C;Serbia;1;PT;Predrag Rajkovi?;Mallorca;La Liga;31/10/1995
+C;Serbia;15;DF;Srdjan Babi?;Spartak Moskva;Prem'yer-Liga;22/04/1996
+C;Serbia;4;DF;Nikola Milenkovi?;Fiorentina;Serie A;12/10/1997
+C;Serbia;25;DF;Filip Mladenovi?;Panathinaikos;Super League Greece;15/08/1991
+C;Serbia;2;DF;Strahinja Pavlovi?;Red Bull Salzburg;Austrian Bundesliga;24/04/2001
+C;Serbia;24;DF;Uroš Spaji?;Crvena Zvezda;Superliga Srbije;13/02/1993
+C;Serbia;3;DF;Nemanja Stoji?;Backa Topola;Superliga Srbije;15/01/1998
+C;Serbia;13;DF;Miloš Veljkovi?;Werder Bremen;Bundesliga;26/09/1995
+C;Serbia;26;MC;Veljko Birman?evi?;Sparta Praha;Fortuna Liga;05/03/1998
+C;Serbia;21;MC;Mijat Ga?inovi?;AEK Athens;Super League Greece;08/02/1995
+C;Serbia;6;MC;Nemanja Gudelj;Sevilla;La Liga;16/11/1991
+C;Serbia;17;MC;Ivan Ili?;Torino;Serie A;17/03/2001
+C;Serbia;22;MC;Saša Luki?;Fulham;Premier League;13/08/1996
+C;Serbia;5;MC;Nemanja Maksimovi?;Getafe;La Liga;26/01/1995
+C;Serbia;16;MC;Sr?an Mijailovi?;Crvena Zvezda;Superliga Srbije;10/11/1993
+C;Serbia;20;MC;Sergej Milinkovi?-Savi?;Al Hilal;Saudi Pro League;27/02/1995
+C;Serbia;19;MC;Lazar Vujadin Samardži?;Udinese Calcio;Serie A;24/02/2002
+C;Serbia;8;DL;Luka Jovi?;AC Milan;Serie A;23/12/1997
+C;Serbia;11;DL;Filip Kosti?;Juventus;Serie A;01/11/1992
+C;Serbia;9;DL;Aleksandar Mitrovi?;Al Hilal;Saudi Pro League;16/09/1994
+C;Serbia;7;DL;Dušan Vlahovi?;Juventus;Serie A;28/01/2000
+C;Serbia;18;DL;Petar Ratkov;Red Bull Salzburg;Austrian Bundesliga;18/08/2003
+C;Serbia;10;DL;Dušan Tadi?;Fenerbahçe;Süper Lig;20/11/1988
+C;Serbia;14;DL;Andrija Živkovi?;PAOK;Super League Greece;11/07/1996
+C;Serbia;-;DT;Dragan Stojkovi?;Serbia;-;03/03/1965
+C;Dinamarca;16;PT;Mads Hermansen;Leicester City;Championship;11/07/2000
+C;Dinamarca;22;PT;Frederik Rønnow;Union Berlin;Bundesliga;04/08/1992
+C;Dinamarca;1;PT;Kasper Schmeichel;Anderlecht;Belgian Pro League;05/11/1986
+C;Dinamarca;2;DF;Joachim Andersen;Crystal Palace;Premier League;31/05/1996
+C;Dinamarca;18;DF;Alexander Bah;Benfica;Primeira Liga;09/12/1997
+C;Dinamarca;6;DF;Andreas Christensen;Barcelona;La Liga;10/04/1996
+C;Dinamarca;13;DF;Mathias Jørgensen;FC København;Superligaen;23/04/1990
+C;Dinamarca;4;DF;Simon Kjær;AC Milan;Serie A;26/03/1989
+C;Dinamarca;5;DF;Joakim Mæhle;Wolfsburg;Bundesliga;20/05/1997
+C;Dinamarca;17;DF;Victor Kristiansen;Bologna;Serie A;16/12/2002
+C;Dinamarca;25;DF;Rasmus Kristensen;AS Roma;Serie A;11/07/1997
+C;Dinamarca;3;DF;Jannik Vestergaard;Leicester City;Championship;03/08/1992
+C;Dinamarca;8;MC;Thomas Delaney;Anderlecht;Belgian Pro League;03/09/1991
+C;Dinamarca;24;MC;Andreas Dreyer;Anderlecht;Belgian Pro League;02/05/1998
+C;Dinamarca;10;MC;Christian Eriksen;Manchester United;Premier League;14/02/1992
+C;Dinamarca;21;MC;Morten Hjulmand;Sporting CP;Primeira Liga;25/06/1999
+C;Dinamarca;23;MC;Pierre-Emile Højbjerg;Tottenham Hotspur;Premier League;05/08/1995
+C;Dinamarca;7;MC;Mathias Jensen;Brentford;Premier League;01/01/1996
+C;Dinamarca;26;MC;Jacob Bruun Larsen;Burnley;Premier League;19/09/1998
+C;Dinamarca;15;MC;Christian Nørgaard;Brentford;Premier League;10/03/1994
+C;Dinamarca;14;DL;Mikkel Damsgaard;Brentford;Premier League;03/07/2000
+C;Dinamarca;12;DL;Kasper Dolberg;Anderlecht;Belgian Pro League;06/10/1997
+C;Dinamarca;9;DL;Rasmus Højlund;Manchester United;Premier League;04/02/2003
+C;Dinamarca;11;DL;Andreas Skov Olsen;Club Brugge;Belgian Pro League;29/12/1999
+C;Dinamarca;19;DL;Jonas Wind;VfL Wolfsburg;Bundesliga;07/02/1999
+C;Dinamarca;20;DL;Yussuf Poulsen;RB Leipzig;Bundesliga;15/06/1994
+C;Dinamarca;-;DT;Kasper Hjulmand;Dinamarca;-;09/04/1972
+C;Eslovenia;12;PT;Vid Belec;APOEL;Cypriot First Division;06/06/1990
+C;Eslovenia;1;PT;Jan Oblak;Atlético Madrid;La Liga;07/01/1993
+C;Eslovenia;16;PT;Igor Veki?;Vejle BK;Superligaen;06/05/1998
+C;Eslovenia;3;DF;Jure Balkovec;Alanyaspor;Süper Lig;09/09/1994
+C;Eslovenia;6;DF;Jaka Bijol;Udinese;Serie A;05/02/1999
+C;Eslovenia;4;DF;Miha Blaži?;Lech Poznan;Ekstraklasa;08/05/1993
+C;Eslovenia;23;DF;David Brekalo;Orlando City;MLS;03/12/1998
+C;Eslovenia;21;DF;Vanja Drkuši?;Sochi;Prem'yer-Liga;30/10/1999
+C;Eslovenia;13;DF;Erik Janža;Górnik Zabrze;Ekstraklasa;21/06/1993
+C;Eslovenia;2;DF;Žan Karni?nik;NK Celje;PrvaLiga Telemach;18/09/1994
+C;Eslovenia;5;DF;Jon Gorenc Stankovi?;SK Sturm Graz;Austrian Bundesliga;14/01/1996
+C;Eslovenia;20;DF;Petar Stojanovi?;Sampdoria;Serie B;07/10/1995
+C;Eslovenia;10;MC;Timi Elšnik;Olimpija Ljubljana;PrvaLiga Telemach;29/04/1998
+C;Eslovenia;22;MC;Adam Gnezda ?erin;Panathinaikos;Super League Greece;16/07/1999
+C;Eslovenia;15;MC;Tomi Horvat;SK Sturm Graz;Austrian Bundesliga;24/03/1999
+C;Eslovenia;26;MC;Josip Ili?i?;NK Maribor;PrvaLiga Telemach;29/01/1988
+C;Eslovenia;14;MC;Jasmin Kurti?;Südtirol;Serie B;10/01/1989
+C;Eslovenia;8;MC;Sandi Lovri?;Udinese;Serie A;28/03/1998
+C;Eslovenia;7;MC;Benjamin Verbi?;Panathinaikos;Super League Greece;27/11/1993
+C;Eslovenia;25;MC;Adrian Zeljkovi?;Spartak Trnava;Niké Liga;19/08/2002
+C;Eslovenia;24;MC;Nino Žugelj;Bodø/Glimt;Eliteserien;25/07/1992
+C;Eslovenia;19;DL;Žan Celar;FC Lugano;Swiss Super League;14/03/1999
+C;Eslovenia;17;DL;Jan Mlakar;Pisa;Serie B;23/10/1998
+C;Eslovenia;11;DL;Benjamin Šeško;RB Leipzig;Bundesliga;31/05/2003
+C;Eslovenia;9;DL;Andraž Šporar;Panathinaikos;Super League Greece;27/02/1994
+C;Eslovenia;18;DL;Zan Vipotnik;Girondins Bordeaux;Ligue 2;18/03/2002
+C;Eslovenia;-;DT;Matjaž Kek;Eslovenia;-;09/09/1961
+D;Francia;23;PT;Alphonse Areola;West Ham United;Premier League;27/02/1993
+D;Francia;16;PT;Mike Maignan;AC Milan;Serie A;03/07/1995
+D;Francia;1;PT;Brice Samba;Lens;Ligue 1;25/04/1994
+D;Francia;21;DF;Jonathan Clauss;Olympique Marseille;Ligue 1;25/09/1992
+D;Francia;22;DF;Théo Hernandez;AC Milan;Serie A;06/10/1997
+D;Francia;24;DF;Ibrahima Konaté;Liverpool;Premier League;25/05/1999
+D;Francia;5;DF;Jules Koundé;Barcelona;La Liga;12/11/1998
+D;Francia;3;DF;Ferland Mendy;Real Madrid;La Liga;08/06/1995
+D;Francia;2;DF;Benjamin Pavard;Inter Milan;Serie A;28/03/1996
+D;Francia;17;DF;William Saliba;Arsenal;Premier League;24/03/2001
+D;Francia;4;DF;Dayot Upamecano;Bayern Munich;Bundesliga;27/10/1998
+D;Francia;6;MC;Eduardo Camavinga;Real Madrid;La Liga;10/11/2002
+D;Francia;19;MC;Youssouf Fofana;AS Monaco;Ligue 1;10/01/1999
+D;Francia;7;MC;Antoine Griezmann;Atletico Madrid;La Liga;21/03/1991
+D;Francia;13;MC;N'Golo Kanté;Al-Ittihad;Saudi Pro League;29/03/1991
+D;Francia;14;MC;Adrien Rabiot;Juventus;Serie A;03/04/1995
+D;Francia;8;MC;Aurélien Tchouaméni;Real Madrid;La Liga;27/01/2000
+D;Francia;18;MC;Warren Zaïre-Emery;Paris Saint-Germain;Ligue 1;08/03/2006
+D;Francia;25;DL;Bradley Barcola;Paris Saint-Germain;Ligue 1;02/09/2002
+D;Francia;20;DL;Kingsley Coman;Bayern Munich;Bundesliga;13/06/1996
+D;Francia;11;DL;Ousmane Dembélé;Paris Saint-Germain;Ligue 1;15/05/1997
+D;Francia;9;DL;Olivier Giroud;AC Milan;Serie A;30/09/1986
+D;Francia;12;DL;Randal Kolo Muani;Paris Saint-Germain;Ligue 1;05/12/1998
+D;Francia;10;DL;Kylian Mbappé;Paris Saint-Germain;Ligue 1;20/12/1998
+D;Francia;15;DL;Marcus Thuram;Inter Milan;Serie A;06/08/1997
+D;Francia;-;DT;Didier Deschamps;Francia;-;15/10/1968
+D;Austria;12;PT;Niklas Hedl;SK Rapid Wien;Austrian Bundesliga;17/07/1990
+D;Austria;1;PT;Heinz Lindner;Union Saint-Gilloise;Jupiler Pro League;17/07/1990
+D;Austria;13;PT;Patrick Pentz;Brøndby IF;Superligaen;02/01/1997
+D;Austria;21;DF;Flavius Daniliuc;Red Bull Salzburg;Austrian Bundesliga;27/04/2001
+D;Austria;4;DF;Kevin Danso;Lens;Ligue 1;19/09/1998
+D;Austria;15;DF;Philipp Lienhart;SC Freiburg;Bundesliga;11/07/1996
+D;Austria;16;DF;Philipp Mwene;Mainz 05;Bundesliga;29/01/1994
+D;Austria;5;DF;Stefan Posch;Bologna;Serie A;14/05/1997
+D;Austria;14;DF;Leopold Querfeld;SK Rapid Wien;Austrian Bundesliga;20/12/2003
+D;Austria;3;DF;Gernot Trauner;Feyenoord;Eredivisie;25/03/1992
+D;Austria;23;DF;Patrick Wimmer;Wolfsburg;Bundesliga;30/05/2001
+D;Austria;2;DF;Maximilian Wöber;Borussia Mönchengladbach;Bundesliga;04/02/1998
+D;Austria;19;MC;Christoph Baumgartner;RB Leipzig;Bundesliga;01/08/1999
+D;Austria;10;MC;Florian Grillitsch;TSG 1899 Hoffenheim;Bundesliga;07/08/1995
+D;Austria;26;MC;Marco Grüll;SK Rapid Wien;Austrian Bundesliga;06/07/1998
+D;Austria;17;MC;Florian Kainz;FC Köln;Bundesliga;24/10/1992
+D;Austria;20;MC;Konrad Laimer;Bayern Munich;Bundesliga;27/05/1997
+D;Austria;8;MC;Alexander Prass;SK Sturm Graz;Austrian Bundesliga;26/05/2001
+D;Austria;9;MC;Marcel Sabitzer;Borussia Dortmund;Bundesliga;17/03/1994
+D;Austria;18;MC;Romano Schmid;Werder Bremen;Bundesliga;27/01/2000
+D;Austria;6;MC;Nicolas Seiweld;RB Leipzig;Bundesliga;04/05/2001
+D;Austria;22;MC;Matthias Seidl;SK Rapid Wien;Austrian Bundesliga;24/01/2001
+D;Austria;7;DL;Marko Arnautovi?;Inter Milan;Serie A;19/04/1989
+D;Austria;25;DL;Maximilian Entrup;TSV Hartberg;Austrian Bundesliga;25/07/1997
+D;Austria;11;DL;Michael Gregoritsch;Freiburg;Bundesliga;18/04/1994
+D;Austria;24;DL;Andreas Weimann;West Bromwich Albion;Championship;05/08/1991
+D;Austria;-;DT;Ralf Rangnick;Alemania;-;29/06/1958
+D;Países Bajos;13;PT;Justin Bijlow;Feyenoord;Eredivisie;22/01/1998
+D;Países Bajos;23;PT;Mark Flekken;Brentford;Premier League;13/06/1993
+D;Países Bajos;1;PT;Bart Verbruggen;Brighton & Hove Albion;Premier League;18/08/2002
+D;Países Bajos;5;DF;Nathan Aké;Manchester City;Premier League;18/02/1995
+D;Países Bajos;17;DF;Daley Blind;Girona FC;La Liga;09/03/1990
+D;Países Bajos;3;DF;Matthijs de Ligt;Bayern Munich;Bundesliga;12/08/1999
+D;Países Bajos;6;DF;Stefan de Vrij;Inter Milan;Serie A;05/02/1992
+D;Países Bajos;22;DF;Denzel Dumfries;Inter Milan;Serie A;18/04/1996
+D;Países Bajos;2;DF;Lutsharel Geertruida;Feyenoord;Eredivisie;18/07/2000
+D;Países Bajos;4;DF;Virgil van Dijk;Liverpool;Premier League;08/07/1991
+D;Países Bajos;15;DF;Micky van de Ven;Tottenham Hotspur;Premier League;19/04/2001
+D;Países Bajos;21;MC;Frenkie de Jong;Barcelona;La Liga;12/05/1997
+D;Países Bajos;26;MC;Ryan Gravenberch;Liverpool;Premier League;16/05/2002
+D;Países Bajos;20;MC;Teun Koopmeiners;Atalanta;Serie A;28/02/1998
+D;Países Bajos;14;MC;Tijjani Reijnders;AC Milan;Serie A;29/07/1998
+D;Países Bajos;24;MC;Jerdy Schouten;PSV Eindhoven;Eredivisie;12/01/1997
+D;Países Bajos;16;MC;Joey Veerman;PSV Eindhoven;Eredivisie;19/08/1998
+D;Países Bajos;8;MC;Georginio Wijnaldum;Al-Ettifaq;Saudi Pro League;11/11/1990
+D;Países Bajos;25;DL;Steven Bergwijn;Ajax;Eredivisie;07/10/1997
+D;Países Bajos;19;DL;Brian Brobbey;Ajax;Eredivisie;01/02/2002
+D;Países Bajos;10;DL;Memphis Depay;Atlético Madrid;La Liga;13/02/1994
+D;Países Bajos;12;DL;Jeremie Frimpong;Bayer Leverkusen;Bundesliga;10/12/2000
+D;Países Bajos;11;DL;Cody Gakpo;Liverpool;Premier League;07/05/1999
+D;Países Bajos;18;DL;Donyell Malen;Borussia Dortmund;Bundesliga;19/01/1999
+D;Países Bajos;7;DL;Xavi Simons;RB Leipzig;Bundesliga;21/04/2003
+D;Países Bajos;9;DL;Wout Weghorst;TSG 1899 Hoffenheim;Bundesliga;07/08/1992
+D;Países Bajos;-;DT;Ronald Koeman;Países Bajos;-;21/03/1963
+D;Polonia;22;PT;Marcin Bu?ka;OGC Nice;Ligue 1;04/10/1999
+D;Polonia;12;PT;?ukasz Skorupski;Bologna;Serie A;05/05/1991
+D;Polonia;1;PT;Wojciech Szcz?sny;Juventus;Serie A;18/04/1990
+D;Polonia;5;DF;Jan Bednarek;Southampton;Championship;12/04/1996
+D;Polonia;18;DF;Bartosz Bereszy?ski;Empoli;Serie A;12/07/1992
+D;Polonia;19;DF;Przemys?aw Frankowski;Lens;Ligue 1;12/04/1995
+D;Polonia;14;DF;Jakub Kiwior;Arsenal;Premier League;15/02/2000
+D;Polonia;15;DF;Tymoteusz Puchacz;Kaiserslautern;2. Bundesliga;23/01/1999
+D;Polonia;2;DF;Bartosz Salamon;Lech Poznan;Ekstraklasa;01/05/1991
+D;Polonia;4;DF;Sebastian Walukiewicz;Empoli;Serie A;05/04/2000
+D;Polonia;3;MC;Pawe? Dawidowicz;Hellas Verona;Serie A;20/05/1995
+D;Polonia;11;MC;Kamil Grosicki;Pogon Szczecin;Ekstraklasa;08/06/1988
+D;Polonia;8;MC;Jakub Moder;Brighton & Hove Albion;Premier League;07/04/1999
+D;Polonia;6;MC;Jakub Piotrowski;Ludogorets Razgrad;efbet Liga;04/10/1997
+D;Polonia;13;MC;Taras Romanczuk;Jagiellonia Bia?ystok;Ekstraklasa;14/11/1991
+D;Polonia;24;MC;Bartosz Slisz;Atlanta United;MLS;29/03/1999
+D;Polonia;17;MC;Damian Szyma?ski;AEK Athens;Super League Greece;16/06/1995
+D;Polonia;20;MC;Sebastian Szyma?ski;Fenerbahçe;Süper Lig;10/05/1999
+D;Polonia;26;MC;Kacper Urba?ski;Bologna;Serie A;07/09/2004
+D;Polonia;21;MC;Nicola Zalewski;AS Roma;Serie A;23/01/2002
+D;Polonia;10;MC;Piotr Zieli?ski;Napoli;Serie A;20/05/1994
+D;Polonia;16;DL;Adam Buksa;Antalyaspor;Süper Lig;12/07/1996
+D;Polonia;9;DL;Robert Lewandowski;Barcelona;La Liga;21/08/1988
+D;Polonia;23;DL;Krzysztof Pi?tek;?stanbul Ba?ak?ehir;Süper Lig;01/07/1995
+D;Polonia;25;DL;Micha? Skóra?;Club Brugge;Jupiler Pro League;15/02/2000
+D;Polonia;7;DL;Karol ?widerski;Hellas Verona;Serie A;23/01/1997
+D;Polonia;-;DT;Micha? Probierz;Polonia;-;24/09/1972
+E;Bélgica;1;PT;Koen Casteels;Wolfsburg;Bundesliga;25/06/1992
+E;Bélgica;12;PT;Thomas Kaminski;Luton Town;Premier League;23/10/1992
+E;Bélgica;13;PT;Matz Sels;Nottingham Forest;Premier League;26/02/1992
+E;Bélgica;21;DF;Timothy Castagne;Fulham;Championship;05/12/1995
+E;Bélgica;2;DF;Zeno Debast;Anderlecht;Jupiler Pro League;24/10/2003
+E;Bélgica;4;DF;Wout Faes;Leicester City;Championship;03/04/1998
+E;Bélgica;15;DF;Thomas Meunier;Trabzonspor;Süper Lig;12/09/1991
+E;Bélgica;3;DF;Arthur Theate;Stade Rennais;Ligue 1;25/05/2000
+E;Bélgica;5;DF;Jan Vertonghen;Anderlecht;Jupiler Pro League;24/04/1987
+E;Bélgica;7;MC;Kevin de Bruyne;Manchester City;Premier League;28/06/1991
+E;Bélgica;25;MC;Maxim de Cuyper;Club Brugge;Jupiler Pro League;22/10/2000
+E;Bélgica;18;MC;Orel Mangala;Olympique Lyonnais;Ligue 1;18/03/1998
+E;Bélgica;24;MC;Amadou Onana;Everton;Premier League;16/08/2001
+E;Bélgica;8;MC;Youri Tielemans;Aston Villa;Premier League;07/05/1997
+E;Bélgica;9;MC;Leandro Trossard;Arsenal;Premier League;04/12/1994
+E;Bélgica;23;MC;Arthur Vermeeren;Atlético Madrid;La Liga;07/02/2005
+E;Bélgica;16;MC;Aster Vranckx;Wolfsburg;Bundesliga;04/10/2002
+E;Bélgica;6;MC;Axel Witsel;Atlético Madrid;La Liga;12/01/1989
+E;Bélgica;19;DL;Johan Bakayoko;PSV Eindhoven;Eredivisie;20/04/2003
+E;Bélgica;11;DL;Yannick Carrasco;Al-Shabab;Saudi Pro League;04/09/1993
+E;Bélgica;17;DL;Charles de Ketelaere;Atalanta;Serie A;10/03/2001
+E;Bélgica;22;DL;Jérémy Doku;Manchester City;Premier League;27/05/2002
+E;Bélgica;10;DL;Romelu Lukaku;AS Roma;Serie A;13/05/1993
+E;Bélgica;14;DL;Dodi Lukebakio;Sevilla;La Liga;24/09/1997
+E;Bélgica;20;DL;Loïs Openda;RB Leipzig;Bundesliga;16/02/2000
+E;Bélgica;-;DT;Domenico Tedesco;Alemania;-;12/09/1985
+E;Eslovaquia;1;PT;Martin Dúbravka;Newcastle United;Premier League;15/01/1988
+E;Eslovaquia;23;PT;Henrich Ravas;New England Revolution;MLS;16/08/1997
+E;Eslovaquia;12;PT;Marek Rodák;Fulham;Premier League;13/12/1996
+E;Eslovaquia;15;DF;Vernon de Marco;Hatta Club;UAE Pro League;18/11/1992
+E;Eslovaquia;6;DF;Norbert Gyömbér;US Salernitana;Serie A;03/07/1992
+E;Eslovaquia;16;DF;Dávid Hancko;Feyenoord;Eredivisie;13/12/1997
+E;Eslovaquia;25;DF;Sebastian Kóša;Spartak Trnava;Niké Liga;13/09/2003
+E;Eslovaquia;4;DF;Adam Obert;Cagliari;Serie A;23/08/2002
+E;Eslovaquia;2;DF;Peter Pekarík;Hertha BSC;Bundesliga;30/10/1986
+E;Eslovaquia;14;DF;Milan Škriniar;Paris Saint-Germain;Ligue 1;11/02/1995
+E;Eslovaquia;3;DF;Denis Vavro;FC København;Superligaen;10/04/1996
+E;Eslovaquia;11;MC;László Bénes;Hamburg SV;2. Bundesliga;09/09/1997
+E;Eslovaquia;21;MC;Matúš Bero;VfL Bochum;Bundesliga;06/09/1995
+E;Eslovaquia;8;MC;Ondrej Duda;Hellas Verona;Serie A;05/12/1994
+E;Eslovaquia;13;MC;Patrik Hrošovský;Genk;Jupiler Pro League;22/04/1992
+E;Eslovaquia;19;MC;Juraj Kucka;SK Slovan Bratislava;Niké Liga;26/02/1987
+E;Eslovaquia;22;MC;Stanislav Lobotka;Napoli;Serie A;25/11/1994
+E;Eslovaquia;5;MC;Tomáš Rigo;Baník Ostrava;Fortuna Liga;03/07/2002
+E;Eslovaquia;9;DL;Róbert Boženík;Boavista;Primeira Liga;18/11/2000
+E;Eslovaquia;20;DL;Dávid ?uriš;Ascoli Calcio;Serie B;22/03/1999
+E;Eslovaquia;17;DL;Lukáš Haraslín;Sparta Praha;Fortuna Liga;26/05/1996
+E;Eslovaquia;24;DL;Leo Sauer;Feyenoord;Eredivisie;16/12/2005
+E;Eslovaquia;26;DL;Ivan Schranz;SK Slavia Praha;Fortuna Liga;13/09/1993
+E;Eslovaquia;18;DL;David Strelec;SK Slovan Bratislava;Niké Liga;04/04/2001
+E;Eslovaquia;7;DL;Tomáš Suslov;Hellas Verona;Serie A;07/06/2002
+E;Eslovaquia;10;DL;?ubomír Tupta;Slovan Liberec;Fortuna Liga;27/03/1998
+E;Eslovaquia;-;DT;Francesco Calzona;Italia;-;24/10/1968
+E;Rumanía;16;PT;?tefan Târnovanu;FC Steaua Bucure?ti;Liga I;09/05/2000
+E;Rumanía;1;PT;Florin Ni??;Gaziantep;Süper Lig;03/07/1987
+E;Rumanía;12;PT;Hora?iu Moldovan;Atlético Madrid;La Liga;20/01/1998
+E;Rumanía;11;DF;Nicu?or Bancu;Universitatea Craiova;Liga I;18/09/1992
+E;Rumanía;15;DF;Andrei Burc?;Al-Okhdood;Saudi Pro League;15/04/1993
+E;Rumanía;3;DF;Radu Dr?gu?in;Tottenham Hotspur;Premier League;03/02/2002
+E;Rumanía;22;DF;Vasile Mogo?;Cluj;Liga I;31/10/1992
+E;Rumanía;5;DF;Ionu? Nedelcearu;Palermo;Serie B;25/04/1996
+E;Rumanía;24;DF;Bogdan Racovi?an;Raków Cz?stochowa;Ekstraklasa;06/06/2000
+E;Rumanía;2;DF;Andrei Ra?iu;Rayo Vallecano;La Liga;20/06/1998
+E;Rumanía;4;DF;Adrian Rus;Pafos FC;Protathlima Cyta;18/03/1996
+E;Rumanía;8;MC;Alexandru Cicâld?u;Konyaspor;Süper Lig;08/07/1997
+E;Rumanía;10;MC;Ianis Hagi;Deportivo Alavés;La Liga;22/10/1998
+E;Rumanía;6;MC;Marius Marin;Pisa SC;Serie B;30/08/1998
+E;Rumanía;18;MC;R?zvan Marin;Empoli;Serie A;23/05/1996
+E;Rumanía;14;MC;Darius Olaru;FC Steaua Bucure?ti;Liga I;03/03/1998
+E;Rumanía;23;MC;Deian Sorescu;Gaziantep;Süper Lig;29/08/1997
+E;Rumanía;21;MC;Nicolae Stanciu;Wuhan Three Towns;Chinese Super League;07/05/1993
+E;Rumanía;26;MC;Adrian ?ut;Gaziantep;Süper Lig;30/01/1900
+E;Rumanía;7;DL;Denis Alibec;Muaither SC;Qatar Stars League;05/01/1991
+E;Rumanía;25;DL;Daniel Bîrligea;Cluj;Liga I;19/04/2000
+E;Rumanía;17;DL;Florinel Coman;FC Steaua Bucure?ti;Liga I;10/04/1998
+E;Rumanía;19;DL;Denis Dr?gu?;Gaziantep;Süper Lig;06/07/1999
+E;Rumanía;20;DL;Dennis Man;Parma Calcio;Serie B;26/08/1998
+E;Rumanía;13;DL;Valentin Mih?il?;Parma Calcio;Serie B;02/02/2000
+E;Rumanía;9;DL;George Pu?ca?;Bari;Serie B;08/04/1996
+E;Rumanía;-;DT;Edward Iord?nescu;Rumanía;-;16/06/1978
+E;Ucrania;1;PT;Georgiy Bushchan;Dynamo Kyiv;Ukraïns?ka Prem'yer-liha;31/05/1994
+E;Ucrania;23;PT;Andriy Lunin;Real Madrid;La Liga;11/02/1999
+E;Ucrania;12;PT;Anatoliy Trubin;Benfica;Primeira Liga;01/08/2001
+E;Ucrania;21;DF;Valerii Bondar;Shajtar Donetsk;Ukraïns?ka Prem'yer-liha;27/02/1999
+E;Ucrania;2;DF;Yukhym Konoplia;Shajtar Donetsk;Ukraïns?ka Prem'yer-liha;26/08/1999
+E;Ucrania;22;DF;Mykola Matviyenko;Shajtar Donetsk;Ukraïns?ka Prem'yer-liha;02/05/1996
+E;Ucrania;26;DF;Bogdan Mykhaylichenko;Polissya Zhytomyr;Ukraïns?ka Prem'yer-liha;21/03/1997
+E;Ucrania;16;DF;Vitaliy Mykolenko;Everton;Premier League;29/05/1999
+E;Ucrania;3;DF;Oleksandr Svatok;SC Dnipro-1;Ukraïns?ka Prem'yer-liha;27/09/1994
+E;Ucrania;4;DF;Maksym Talovierov;LASK Linz;Austrian Bundesliga;28/06/2000
+E;Ucrania;25;DF;Oleksandr Tymchyk;Dynamo Kyiv;Ukraïns?ka Prem'yer-liha;20/01/1997
+E;Ucrania;13;DF;Illia Zabarnyi;Bournemouth;Premier League;01/09/2002
+E;Ucrania;17;DF;Oleksandr Zinchenko;Arsenal;Premier League;15/12/1996
+E;Ucrania;18;MC;Volodymyr Brazhko;Dynamo Kyiv;Ukraïns?ka Prem'yer-liha;23/01/2002
+E;Ucrania;8;MC;Ruslan Malinovskyi;Genoa;Serie A;04/05/1993
+E;Ucrania;19;MC;Mykola Shaparenko;Dynamo Kyiv;Ukraïns?ka Prem'yer-liha;04/10/1998
+E;Ucrania;6;MC;Taras Stepanenko;Shajtar Donetsk;Ukraïns?ka Prem'yer-liha;08/08/1989
+E;Ucrania;14;MC;Georgiy Sudakov;Shajtar Donetsk;Ukraïns?ka Prem'yer-liha;01/09/2002
+E;Ucrania;5;MC;Serhiy Sydorchuk;KVC Westerlo;Jupiler Pro League;02/05/1991
+E;Ucrania;15;MC;Viktor Tsygankov;Girona;La Liga;15/11/1997
+E;Ucrania;7;MC;Andriy Yarmolenko;Dynamo Kyiv;Ukraïns?ka Prem'yer-liha;23/10/1989
+E;Ucrania;20;MC;Oleksandr Zubkov;Shajtar Donetsk;Ukraïns?ka Prem'yer-liha;03/08/1996
+E;Ucrania;11;DL;Artem Dovbyk;Girona;La Liga;21/06/1997
+E;Ucrania;10;DL;Mykhailo Mudryk;Chelsea;Premier League;05/01/2001
+E;Ucrania;25;DL;Vladyslav Vanat;Dynamo Kyiv;Ukraïns?ka Prem'yer-liha;04/01/2002
+E;Ucrania;9;DL;Roman Yaremchuk;Valencia;La Liga;27/11/1995
+E;Ucrania;-;DT;Serhiy Rebrov;Ucrania;-;03/06/1974
+F;Portugal;22;PT;Diogo Costa;FC Porto;Primeira Liga;19/09/1999
+F;Portugal;1;PT;Rui Patrício;AS Roma;Serie A;15/02/1988
+F;Portugal;12;PT;José Sá;Wolverhampton Wanderers;Premier League;17/01/1993
+F;Portugal;20;DF;João Cancelo;FC Barcelona;La Liga;27/05/1994
+F;Portugal;5;DF;Diogo Dalot;Manchester United;Premier League;18/03/1999
+F;Portugal;4;DF;Rúben Dias;Manchester City;Premier League;14/05/1997
+F;Portugal;14;DF;Gonçalo Inácio;Sporting CP;Primeira Liga;25/08/2001
+F;Portugal;19;DF;Nuno Mendes;Paris Saint-Germain;Ligue 1;19/06/2002
+F;Portugal;3;DF;Pepe;FC Porto;Primeira Liga;26/02/1983
+F;Portugal;2;DF;Nélson Semedo;Wolverhampton Wanderers;Premier League;16/11/1993
+F;Portugal;24;DF;António Silva;SL Benfica;Primeira Liga;30/10/2003
+F;Portugal;8;MC;Bruno Fernandes;Manchester United;Premier League;08/09/1994
+F;Portugal;25;MC;Pedro Neto;Wolverhampton Wanderers;Premier League;09/03/2000
+F;Portugal;15;MC;João Neves;SL Benfica;Primeira Liga;27/09/2004
+F;Portugal;18;MC;Rúben Neves;Al-Hilal;Saudi Pro League;13/03/1997
+F;Portugal;16;MC;Matheus Nunes;Manchester City;Premier League;27/08/1998
+F;Portugal;6;MC;João Palhinha;Fulham;Premier League;09/07/1995
+F;Portugal;13;MC;Danilo Pereira;Paris Saint-Germain;Ligue 1;09/09/1991
+F;Portugal;10;MC;Bernardo Silva;Manchester City;Premier League;10/08/1994
+F;Portugal;23;MC;Vitinha;Paris Saint-Germain;Ligue 1;13/02/2000
+F;Portugal;26;DL;Francisco Conceição;FC Porto;Primeira Liga;14/12/2002
+F;Portugal;11;DL;João Félix;FC Barcelona;La Liga;10/11/1999
+F;Portugal;21;DL;Diogo Jota;Liverpool;Premier League;04/12/1996
+F;Portugal;17;DL;Rafael Leão;AC Milan;Serie A;10/06/1999
+F;Portugal;9;DL;Gonçalo Ramos;Paris Saint-Germain;Ligue 1;20/06/2001
+F;Portugal;7;DL;Cristiano Ronaldo;Al-Nassr;Saudi Pro League;05/02/1985
+F;Portugal;-;DT;Roberto Martínez;España;-;13/07/1973
+F;Chequia;23;PT;Vít?zslav Jaroš;SK Sturm Graz;Austrian Bundesliga;23/07/2001
+F;Chequia;16;PT;Mat?j Ková?;Bayer 04 Leverkusen;Bundesliga;17/05/2000
+F;Chequia;1;PT;Jind?ich Stan?k;SK Slavia Praha;Fortuna Liga;27/04/1996
+F;Chequia;5;DF;Vladimír Coufal;West Ham United;Premier League;22/08/1992
+F;Chequia;12;DF;David Doud?ra;SK Slavia Praha;Fortuna Liga;31/05/1998
+F;Chequia;4;DF;Robin Hraná?;FC Viktoria Plze?;Fortuna Liga;29/01/2000
+F;Chequia;15;DF;David Jurásek;TSG 1899 Hoffenheim;Bundesliga;07/08/2000
+F;Chequia;18;DF;Ladislav Krej?í;AC Sparta Praha;Fortuna Liga;20/04/1999
+F;Chequia;6;DF;Martin Vitík;AC Sparta Praha;Fortuna Liga;21/01/2003
+F;Chequia;24;DF;Tomáš Vl?ek;SK Slavia Praha;Fortuna Liga;28/02/2001
+F;Chequia;2;DF;David Zima;SK Slavia Praha;Fortuna Liga;08/11/2000
+F;Chequia;7;MC;Antonín Barák;Fiorentina;Serie A;03/12/1994
+F;Chequia;21;MC;Lukáš ?erv;FC Viktoria Plze?;Fortuna Liga;10/04/2001
+F;Chequia;3;MC;Tomáš Holeš;SK Slavia Praha;Fortuna Liga;31/03/1993
+F;Chequia;26;MC;Mat?j Jurásek;SK Slavia Praha;Fortuna Liga;30/08/2003
+F;Chequia;20;MC;Ond?ej Lingr;Feyenoord;Erediviese;07/10/1998
+F;Chequia;14;MC;Lukáš Provod;SK Slavia Praha;Fortuna Liga;23/10/1996
+F;Chequia;8;MC;Michal Sadílek;Twente Enschede;Erediviese;31/05/1999
+F;Chequia;22;MC;Tomáš Sou?ek;West Ham United;Premier League;27/02/1995
+F;Chequia;25;MC;Pavel Šulc;FC Viktoria Plze?;Fortuna Liga;29/12/2000
+F;Chequia;17;DL;Václav ?erný;Wolfsburg;Bundesliga;17/10/1997
+F;Chequia;19;DL;Tomáš Chorý;FC Viktoria Plze?;Fortuna Liga;26/01/1995
+F;Chequia;13;DL;Mojmír Chytil;SK Slavia Praha;Fortuna Liga;29/04/1999
+F;Chequia;9;DL;Adam Hložek;Bayer 04 Leverkusen;Bundesliga;25/07/2002
+F;Chequia;11;DL;Jan Kuchta;AC Sparta Praha;Fortuna Liga;08/01/1997
+F;Chequia;10;DL;Patrik Schick;Bayer 04 Leverkusen;Bundesliga;24/01/1996
+F;Chequia;-;DT;Ivan Hašek;Chequia;-;06/09/1963
+F;Turquía;12;PT;Altay Bay?nd?r;Manchester United;Premier League;14/04/1998
+F;Turquía;23;PT;U?urcan Çak?r;Trabzonspor;Süper Lig;05/04/1996
+F;Turquía;1;PT;Mert Günok;Be?ikta?;Süper Lig;01/03/1989
+F;Turquía;4;DF;Samet Akaydin;Panathinaikos;Super League Greece;13/03/1994
+F;Turquía;14;DF;Abdülkerim Bardakc?;Galatasaray;Süper Lig;07/09/1994
+F;Turquía;2;DF;Zeki Çelik;AS Roma;Serie A;17/02/1997
+F;Turquía;3;DF;Merih Demiral;Al-Ahli;Saudi Pro League;05/03/1998
+F;Turquía;20;DF;Ferdi Kad?o?lu;Fenerbahçe;Süper Lig;07/10/1999
+F;Turquía;13;DF;Ahmetcan Kaplan;Ajax;Erediviese;16/01/2003
+F;Turquía;18;DF;Mert Müldür;Fenerbahçe;Süper Lig;03/04/1999
+F;Turquía;22;MC;Kaan Ayhan;Galatasaray;Süper Lig;10/11/1994
+F;Turquía;10;MC;Hakan Çalhano?lu;Inter Milan;Serie A;08/02/1994
+F;Turquía;6;MC;Orkun Kökçü;SL Benfica;Primeira Liga;29/12/2000
+F;Turquía;15;MC;Salih Özcan;Borussia Dortmund;Bundesliga;11/01/1998
+F;Turquía;5;MC;Okay Yoku?lu;West Bromwich Albion;Championship;09/03/1994
+F;Turquía;16;MC;?smail Yüksek;Fenerbahçe;Süper Lig;26/01/1999
+F;Turquía;25;DL;Yunus Akgün;Leicester City;Championship;07/07/2000
+F;Turquía;7;DL;Kerem Aktürko?lu;Galatasaray;Süper Lig;21/10/1998
+F;Turquía;8;DL;Arda Güler;Real Madrid;La Liga;25/02/2005
+F;Turquía;17;DL;?rfan Can Kahveci;Fenerbahçe;Süper Lig;15/07/1995
+F;Turquía;24;DL;Semih K?l?çsoy;Be?ikta?;Süper Lig;15/08/2005
+F;Turquía;9;DL;Cenk Tosun;Be?ikta?;Süper Lig;07/06/1991
+F;Turquía;11;DL;Yusuf Yaz?c?;LOSC Lille;Ligue 1;29/01/1997
+F;Turquía;26;DL;Bertu? Y?ld?r?m;Stade Rennais;Ligue 1;12/07/2002
+F;Turquía;19;DL;Kenan Y?ld?z;Juventus;Serie A;04/05/2005
+F;Turquía;21;DL;Bar?? Alper Y?lmaz;Galatasaray;Süper Lig;23/05/2000
+F;Turquía;-;DT;Vincenzo Montella;Italia;-;18/06/1974
+F;Georgia;12;PT;Luka Gugeshashvili;Qaraba?;Az?rbaycan Premyer Liqas?;29/10/1998
+F;Georgia;1;PT;Giorgi Loria;Dinamo Tbilisi;Erovnuli Liga;27/01/1986
+F;Georgia;25;PT;Giorgi Mamardashvili;Valencia CF;La Liga;29/09/2000
+F;Georgia;3;DF;Lasha Dvali;APOEL Nicosia;Protathlima Cyta;14/05/1995
+F;Georgia;13;DF;Giorgi Gocholeishvili;Shajtar Donetsk;Ukraïns?ka Prem'yer-liha;14/02/2001
+F;Georgia;15;DF;Giorgi Gvelesiani;Persepolis FC;Persian Gulf Pro League;05/05/1991
+F;Georgia;2;DF;Otar Kakabadze;MKS Cracovia;Ekstraklasa;27/06/1995
+F;Georgia;4;DF;Guram Kashia;SK Slovan Bratislava;Niké Liga;04/07/1987
+F;Georgia;5;DF;Solomon Kvirkvelia;Al-Okhdood Club;Saudi Pro League;06/02/1992
+F;Georgia;14;DF;Luka Lochoshvili;US Cremonese;Serie B;29/05/1998
+F;Georgia;24;DF;Jemal Tabidze;Panetolikos;Super League Greece;18/03/1996
+F;Georgia;18;MC;Sandro Altunashvili;Wolfsberger;Austrian Bundesliga;14/01/1997
+F;Georgia;10;MC;Giorgi Chakvetadze;Watford;Championship;29/08/1999
+F;Georgia;9;MC;Zuriko Davitashvili;Girondins Bordeaux;Ligue 2;15/02/2001
+F;Georgia;17;MC;Otar Kiteishvili;Sturm Graz;Austrian Bundesliga;26/03/1996
+F;Georgia;6;MC;Giorgi Kochorashvili;Levante UD;LaLiga 2;29/06/1999
+F;Georgia;16;MC;Nika Kvekveskiri;Lech Pozna?;Ekstraklasa;29/05/1992
+F;Georgia;23;MC;Saba Lobzhanidze;Atlanta United;MLS;18/12/1994
+F;Georgia;20;MC;Anzor Mekvabishvili;Universitatea Craiova;Liga I;05/06/2001
+F;Georgia;19;MC;Levan Shengelia;Panetolikos;Super League Greece;07/10/1995
+F;Georgia;26;MC;Gabriel Sigua;FC Basel;Swiss Super League;30/06/2005
+F;Georgia;21;MC;Giorgi Tsitaishvili;Dinamo Batumi;Erovnuli Liga;18/11/2000
+F;Georgia;7;DL;Khvicha Kvaratskhelia;Napoli;Serie A;12/02/2001
+F;Georgia;11;DL;Giorgi Kvilitaia;APOEL Nicosia;Protathlima Cyta;01/10/1993
+F;Georgia;22;DL;Georges Mikautadze;Metz;Ligue 2;31/10/2000
+F;Georgia;8;DL;Budu Zivzivadze;Karlsruher SC;2. Bundesliga;10/03/1994
+F;Georgia;-;DT;Willy Sagnol;Francia;-;18/03/1977
